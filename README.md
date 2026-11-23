@@ -49,13 +49,13 @@ Shared·Logic·Runtime 어셈블리로 책임을 나누었음. Shared는 `IInput
 
 ![보스의 공격을 일반 가드로 막는 장면](guard-normal.gif)
 
-### 패링 반격
-
-![퍼펙트 가드 뒤 반격하는 장면](parry.gif)
-
 ### 퍼펙트 가드
 
 ![보스의 공격을 퍼펙트 가드로 막는 장면](guard-perfect.gif)
+
+### 패링 반격
+
+![퍼펙트 가드 뒤 반격하는 장면](parry.gif)
 
 ## 관련 문서
 
